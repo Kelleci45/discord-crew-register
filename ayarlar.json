@@ -1,12 +1,12 @@
   {
-    "token" : "BOT TOKENİ",
-    "sahip" : "ID'niz",
-    "prefix" : "Prefixiniz",
-    "footer" : "Adınız ❤️ Sunucu İsminiz",
+    "token" : "978664983288225822",
+    "sahip" : "765316133598527519",
+    "prefix" : ".",
+    "footer" : "✝ Nova Paradise",
 
-    "tag" : "Tagınız",
-    "etikettag" : "Etiket Tagınız #'siz'",
-    "sembol" : "Kayıt ederken isim ve yaşın arasına koyulacak sembol (yoksa boş bırakın)",
+    "tag" : "✝",
+    "etikettag" : "✝ #'siz'",
+    "sembol" : "|",
   
     "yetkiliRol" : ["YETKİLİ ROLÜ ID", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
     "vipRol" : "VIP ROL ID",
